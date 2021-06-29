@@ -20,12 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee140ddf-a2a5-47af-bcfc-625f032cef18" name="Default Changelist" comment="made ints to floats">
+      <change afterPath="$PROJECT_DIR$/route/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -37,14 +46,32 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Calc" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/route/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <output_directory value="$PROJECT_DIR$/.idea" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Calc" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/route/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Calc" />
       <working_directory value="$PROJECT_DIR$" />
@@ -56,6 +83,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build main.go (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -73,35 +102,47 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed workspace not recognizing imports" />
     <option name="LAST_COMMIT_MESSAGE" value="fixed workspace not recognizing imports" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1624975302860">
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1624980511117">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1624975302860" />
-    <state width="722" height="213" key="GridCell.Tab.0.bottom" timestamp="1624979711459">
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1624980511117" />
+    <state width="1491" height="208" key="GridCell.Tab.0.bottom" timestamp="1624981349746">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="722" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1624979711459" />
-    <state width="722" height="213" key="GridCell.Tab.0.center" timestamp="1624979711459">
+    <state width="1491" height="208" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1624981349746" />
+    <state width="1491" height="208" key="GridCell.Tab.0.center" timestamp="1624981349746">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="722" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1624979711459" />
-    <state width="722" height="213" key="GridCell.Tab.0.left" timestamp="1624979711455">
+    <state width="1491" height="208" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1624981349746" />
+    <state width="1491" height="208" key="GridCell.Tab.0.left" timestamp="1624981349746">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="722" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1624979711455" />
-    <state width="722" height="213" key="GridCell.Tab.0.right" timestamp="1624979711459">
+    <state width="1491" height="208" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1624981349746" />
+    <state width="1491" height="208" key="GridCell.Tab.0.right" timestamp="1624981349746">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="722" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1624979711459" />
+    <state width="1491" height="208" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1624981349746" />
     <state x="360" y="149" key="Vcs.Push.Dialog.v2" timestamp="1624975351718">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="360" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1624975351718" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
